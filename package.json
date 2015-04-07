@@ -1,0 +1,20 @@
+{
+  "name": "camo-url",
+  "version": "1.0.0",
+  "description": "Create URLs for camo servers",
+  "main": "camo-url.js",
+  "bin" : "camo-url.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:usecanvas/camo-url.git"
+  },
+  "author": "csquared",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usecanvas/camo-url/issues"
+  },
+  "homepage": "https://github.com/usecanvas/camo-url"
+}

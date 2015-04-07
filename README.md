@@ -12,7 +12,14 @@ we're in business.
 
 ## usage
 
+clone first (will consider putting this on NPM when canvas-specific stuff is out of the program)
+
     node camo-url.js <image url>
+
+or
+
+    npm link .
+    camo-url <image url>
 
 ### example
 

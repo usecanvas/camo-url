@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 var crypto = require('crypto');
 var child_process = require('child_process');
 var appName = process.env['APP_NAME'] || 'canvas-camo';
